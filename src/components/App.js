@@ -228,7 +228,7 @@ function App() {
 									{revealTime !== 0 && <Countdown date={currentTime + (revealTime - currentTime)} className='countdown' />}
 									<ul>
 										<li>1,000 generated punked out images using an art generator</li>
-										<li>Free minting on Goerli testnet</li>
+										<li>Free minting on Goerli testnet and Polygon Mainnet</li>
 										<li>Viewable on Opensea shortly after minting</li>
 									</ul>
 
